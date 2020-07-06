@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tfjs-angular"
+    }
+  },
+  "defaultProject": "tfjs-angular",
+  "cli": {
+    "analytics": false
+  }
 }
